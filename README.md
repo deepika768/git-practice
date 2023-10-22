@@ -1,8 +1,6 @@
-### Git and Github Tutorials
+### This is my end to end project 
 
 ## Deepika Sahu
-
-## github tutorials
 
 <<<<<<< HEAD
 ##  Krish naik 1st class
